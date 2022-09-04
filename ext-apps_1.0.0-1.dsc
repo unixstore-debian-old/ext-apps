@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-apps deb admin optional arch=all
 Checksums-Sha1:
- da4663c17921172902d36f719eb16c4e95e3bb48 1448 ext-apps_1.0.0.orig.tar.xz
+ 3073f0da3e7fb8c937ab5b01edbbb4b5fca98ad2 1448 ext-apps_1.0.0.orig.tar.xz
  ed7383b889480b42fef69815bb2e9daa1def8d86 720 ext-apps_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 7b6c4a1224233bed7d8bc211202a9b7d5c25d5a10164b630b813744a2273d34b 1448 ext-apps_1.0.0.orig.tar.xz
+ e52f1bdd14df29c41a27d680659f058b58aeccd23bd5b5ed1ccb69e5edcebcad 1448 ext-apps_1.0.0.orig.tar.xz
  4f190829eaec4869a1055b5a0ac2c06f4816bc52a7636dddc2f2726dd96333a6 720 ext-apps_1.0.0-1.debian.tar.xz
 Files:
- 4526f3d037c21227b8be03d47da18041 1448 ext-apps_1.0.0.orig.tar.xz
+ cdff7bd636e487a97c19e5a3a2d8ef22 1448 ext-apps_1.0.0.orig.tar.xz
  2811acc1cae617ba37d9d671dd97b526 720 ext-apps_1.0.0-1.debian.tar.xz
